@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @devjogerio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Olá, eu sou Rogério o @devjogerio!
 
-<!---
-devjogerio/devjogerio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bem-vindo ao meu perfil do GitHub! 🚀
+
+## 🧑‍💻 Sobre Mim
+
+Sou um desenvolvedor apaixonado por resolver problemas e criar projetos de impacto. Meus repositórios públicos apresentam uma mistura de utilitários em Python e aplicativos inovadores. Gosto de aprender novas tecnologias e colaborar com a comunidade open-source.
+
+## 🌱 No que estou trabalhando
+
+Estou sempre explorando novas áreas de desenvolvimento em Python, machine learning e criação de aplicativos. Atualmente, meu foco está em construir ferramentas que tornam tarefas do dia a dia mais fáceis e eficientes.
